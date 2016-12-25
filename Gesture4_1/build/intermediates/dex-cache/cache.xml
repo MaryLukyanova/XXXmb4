@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_91c3d3e40eaaad2e145cc1ceecd5392b256ef4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_905b87f9f9178ba9a0f86d2ac8059ab36652caf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_de143fa38802f6a7314a5f8c04adc2692a38b7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7f58c5914aa3b7d11f5a16dad478b838e4ac547a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05aad498a335f8cb05f4bf7b5b5b41545d03c47e">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4bbfd2c483d8a783bf7284be4c62efb80f7ddc34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4cf0fd62ff56805ba4b63cf4b463cf7f40480eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a935ac15f140117cf826ce369089018c1169b0a3">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\instant-run_0db98f2dca62743cf33a4946b37fc5303e3c40cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_e841ebdfa9837da106fff3569016c0a75b27ab8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_c9761663278955b104e3c0e2e8e9b3e196a6bcb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ab040b268d280c6360c6c8f0590d581f277b239f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b0a0effb34ddb7d465f0e8002cfd64e7e9f6011e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_4ca99efce6241d0e4ec65caca8e6d3270248628e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\programs\Android_Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_b1f11458f7bea4056b564e27fd970e5b2807213e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_99416df15d4e4815e2b41bf4be6fc5beee0ed088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_3b504123626435d809f9b50fd3887065d6dd4e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_374d2c8935bf6cc167a24b3b0b97e0f08542fce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\AndroidStudioProjects\Gesture4_1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_154759923e219f49e8a86f7e13f6815710f0effe.jar" />
+    </item>
+
+</items>
